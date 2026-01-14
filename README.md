@@ -68,7 +68,7 @@ This repository documents **100+ essential Linux commands** that I am learning a
 | Command                 | Description            |                         |
 | ----------------------- | ---------------------- | ----------------------- |
 | `grep "word" file`      | Searches word in file  |                         |
-| `egrep "w1              | w2" file`              | Searches multiple words |
+| `egrep "w1  w2" file`   | Searches multiple words |                        |
 | `find /path -name file` | Finds file in system   |                         |
 | `locate file`           | Finds file using index |                         |
 
