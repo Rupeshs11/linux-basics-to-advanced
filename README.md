@@ -66,9 +66,6 @@ Linux-Learning
 ├── summary.pdf
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 📘 Learning Approach
