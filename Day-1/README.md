@@ -1,4 +1,3 @@
-👉 Copy–paste this exactly.
 
 # Day 01 – Introduction to Linux & Basic Commands
 
