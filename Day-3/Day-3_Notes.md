@@ -12,9 +12,8 @@ working on Linux servers and development environments.
 
 ## 🛠️ Utility Commands Covered
 
----
-
 ```bash
+
 help
 📝 Explanation:
 This command provides quick help for shell built-in commands and is
