@@ -14,10 +14,6 @@ working on Linux servers and development environments.
 
 ---
 
-### 🔹 help  
-**Purpose:**  
-Used to check the syntax and available options for a command.
-
 ```bash
 help
 📝 Explanation:
