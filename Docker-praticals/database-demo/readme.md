@@ -16,12 +16,14 @@ A simple project showing how to connect a **Python application** with **MySQL** 
 
 ## 📂 Project Structure
 
+``` bash
 database-demo/
 ├── docker-compose.yml
 ├── Dockerfile
 ├── app.py
 ├── README.md
 
+```
 
 ----------
 
